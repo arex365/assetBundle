@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.40f1
+CRC: 2830297107
+HashAppended: 0
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: quokka
+      Dependencies: {}
+    Info_1:
+      Name: gasha
+      Dependencies: {}
+    Info_2:
+      Name: grim
+      Dependencies: {}
+    Info_3:
+      Name: papa
+      Dependencies: {}
+    Info_4:
+      Name: snake
+      Dependencies: {}
