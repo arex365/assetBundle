@@ -1,0 +1,53 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.40f1
+CRC: 2973768790
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 816f1ed78275dfad97ae05d1b59fe602
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 882b3ef03129ab03229a599dee353a22
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 95a0d8bec03910cfab28decab45089d6
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: f2631274c218bc8499451dad0b8358f4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 95a9bc7ded693fc418febee82d6c95d1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b2d8418b0b9634b1892b0268dd9c2743, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/WoobleWars/Prefabs/Characters/Bundles/grim.prefab
+Dependencies: []
