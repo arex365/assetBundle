@@ -1,7 +1,7 @@
 const express = require('express');
 const path = require('path');
 const app = express();
-const PORT = 3000;
+const PORT = 3005;
 
 // Middleware to serve platform-specific static files
 app.use((req, res, next) => {
